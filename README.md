@@ -1,4 +1,4 @@
 # SQL-NodeJS-Express
 ## Introduccion 
-Mediante express tenemos productos, creado crud_ pondremos "npm run dev" en terminal y con SQL podemos hacer diferentes informes o sentencias (Realizar SELECT sobra) en los cuales se puedan apreciar:
+Trabajo con EJS y XAMPP MYSQL Mediante en la Base de datos "producto_moda". Tendremos productos con direntes regisros, pondremos en la terminal "npm run dev". Con SQL podemos hacer diferentes informes o sentencias (Realizar SELECT sobra) en los cuales se puedan apreciar:
 ## Ventas totales y Ventas por país 📦
