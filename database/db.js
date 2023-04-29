@@ -10,6 +10,6 @@ connection.connect((error)=>{
         console.error('El error de conexion es:'+error)
         return
     }
-    console.log('Conectado BD MYSQL!!.');
+    console.log('Conectado con MYSQL y XAMPP(PUERTO 3306)!!..');
 })
 module.exports = connection; 
